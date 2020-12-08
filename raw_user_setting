@@ -1,0 +1,9 @@
+window_size=1
+fullcsreen=1
+fonttype=YourFontType
+diary_file_path=./data/data1.dlcw
+window_title=YourTitleName
+typora_location=D:\software\Typora\Typora.exe
+sublime_location="D:\software\Sublime Text 3\sublime_text.exe"
+backup_dst=C:/Users/YourUsername/OneDrive/data.dlcw,C:/YourUsers/Username/YandexDisk/data.dlcw
+password=YourPassword
