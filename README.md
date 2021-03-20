@@ -1,4 +1,4 @@
-# Dongli-Teahouse
+# DongliTeahouseWorkbench
 
 This is a clumsy diary manage system based on tkinter.
 
